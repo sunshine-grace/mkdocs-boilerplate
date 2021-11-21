@@ -20,8 +20,8 @@ theme:
   language: zh
   name: 'material'
   include_sidebar: true
-  logo: 'images/logo.png'
-  favicon: 'images/logo.png'
+  logo: 'assets/favicon.png'
+  favicon: 'assets/favicon.png'
   feature:
     tabs: false
   i18n:
