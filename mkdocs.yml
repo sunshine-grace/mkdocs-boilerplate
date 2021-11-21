@@ -5,8 +5,8 @@ site_author: "sunshine-grace"
 plugins:
   - search
   - awesome-pages
-  - autolinks
-  - pdf-export
+  # - pdf-export
+  # - autolinks
 nav:
   - 'Welcome': "index.md"
   - 'Getting Started':
