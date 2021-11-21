@@ -24,6 +24,9 @@ theme:
   favicon: 'images/logo.png'
   feature:
     tabs: false
+  i18n:
+    prev: 'Previous'
+    next: 'Next'
   palette:
     primary: 'deep purple'
     accent: 'deep purple'
@@ -35,6 +38,3 @@ theme:
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
-  i18n:
-    prev: 'Previous'
-    next: 'Next'
