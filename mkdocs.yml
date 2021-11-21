@@ -1,4 +1,5 @@
-site_name: My Docs
+# https://github.com/squidfunk/mkdocs-material/blob/master/mkdocs.yml
+site_name: "PALM"
 site_description: "My docs desc"
 site_author: "sunshine-grace"
 
@@ -14,7 +15,7 @@ nav:
     - '关于': 'about.md'
 
 repo_url: https://github.com/sunshine-grace/mkdocstest.git
-repo_name: "mkdocstest"
+repo_name: ""
 
 theme: 
   language: zh
