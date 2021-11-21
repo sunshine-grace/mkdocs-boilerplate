@@ -1,1 +1,32 @@
 site_name: My Docs
+site_description: "My docs desc"
+site_author: "sunshine-grace"
+
+plugins:
+  - search
+  - awesome-pages
+  - autolinks
+  - pdf-export
+nav:
+  - 'Welcome': "index.md"
+  - 'Getting Started':
+    - '主题': 'main.md'
+    - '关于': 'about.md'
+
+repo_url: https://github.com/sunshine-grace/mkdocstest.git
+repo_name: "mkdocstest"
+
+theme: 
+  language: zh
+  name: 'material'
+  include_sidebar: true
+  logo: 'images/favicon.png'
+  favicon: 'images/favicon.png'
+  feature:
+    tabs: false
+  palette:
+    primary: 'deep purple'
+    accent: 'deep purple'
+  i18n:
+    prev: 'Previous'
+    next: 'Next'
